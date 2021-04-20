@@ -1,7 +1,7 @@
 ﻿
 namespace WinGenDocsAspose
 {
-    partial class Form1
+    partial class FrmPrincLoadAspose
     {
         /// <summary>
         /// Variable del diseñador necesaria.

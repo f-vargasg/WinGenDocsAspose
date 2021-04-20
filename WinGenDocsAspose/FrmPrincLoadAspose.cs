@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace WinGenDocsAspose
 {
-    public partial class Form1 : Form
+    public partial class FrmPrincLoadAspose : Form
     {
-        public Form1()
+        public FrmPrincLoadAspose()
         {
             InitializeComponent();
         }
